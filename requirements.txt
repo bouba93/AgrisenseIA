@@ -1,0 +1,8 @@
+streamlit
+pyttsx3
+mysql-connector-python
+pandas
+plotly
+scikit-learn
+joblib
+fpdf
